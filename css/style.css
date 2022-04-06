@@ -1,0 +1,40 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color:  #d6f5f5;
+}
+
+.logo {
+    margin-left: 100px;
+}
+
+#quemsomos {
+    background-color:  #33adff;
+    color: white; 
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.margem {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.cor {
+    color: #3399ff; 
+}
+
+.parceiros {
+    background-color: #ffffe6;
+}
+
+.rodape {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
